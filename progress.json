@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-21T01:59:35.608Z",
+  "items": {
+    "problem:768": {
+      "kind": "problem",
+      "id": "768",
+      "title": "Rejection Sampling Best-of-K Selection",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/768",
+      "path": "problems/0768-rejection-sampling-best-of-k-selection",
+      "first_solved_at": "2026-09-21T01:59:31.366Z",
+      "last_pushed_at": "2026-09-21T01:59:31.366Z",
+      "language": "python",
+      "lines": 13
+    }
+  }
+}
